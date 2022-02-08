@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "422490830405",
+    "firebase_url": "https://mobil-garson2-4eba4.firebaseio.com",
+    "project_id": "mobil-garson2-4eba4",
+    "storage_bucket": "mobil-garson2-4eba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422490830405:android:7870a4d726b8d35cd0d52c",
+        "android_client_info": {
+          "package_name": "com.example.mobilgarson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422490830405-mum3qjmp99ah749904acb2ieb2h0p3vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80rxHRj3PWdsJU89STyd-dWsMbznIxQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422490830405-mum3qjmp99ah749904acb2ieb2h0p3vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422490830405:android:c713e8d5bbe22abdd0d52c",
+        "android_client_info": {
+          "package_name": "com.example.mobilyonetim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422490830405-mum3qjmp99ah749904acb2ieb2h0p3vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80rxHRj3PWdsJU89STyd-dWsMbznIxQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422490830405-mum3qjmp99ah749904acb2ieb2h0p3vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422490830405:android:a0c8a918a5fe6dcad0d52c",
+        "android_client_info": {
+          "package_name": "com.ruhulmath08.idb.foodorderappserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422490830405-mum3qjmp99ah749904acb2ieb2h0p3vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80rxHRj3PWdsJU89STyd-dWsMbznIxQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422490830405-mum3qjmp99ah749904acb2ieb2h0p3vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

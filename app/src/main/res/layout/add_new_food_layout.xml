@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="20dp">
+
+        <EditText
+            android:id="@+id/edit_name_anf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Ürün Adı"
+            android:inputType="text"
+            android:textColor="@color/colorPrimary"
+            android:textColorHint="#e3e3e3"
+            android:textSize="34sp" />
+
+        <EditText
+            android:id="@+id/edit_description_anf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Ürün Açıklaması"
+            android:inputType="textMultiLine"
+            android:textColor="@color/colorPrimary"
+            android:textColorHint="#e3e3e3"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/edit_price_anf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Ücret"
+            android:inputType="number"
+            android:textColor="@color/colorPrimary"
+            android:textColorHint="#e3e3e3"
+            android:textSize="24sp" />
+
+        <LinearLayout
+            android:weightSum="2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_select_anf"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_background"
+                android:text="Seç"
+                android:textAllCaps="false"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/btn_upload_anf"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_background"
+                android:text="Yükle"
+                android:textAllCaps="false"
+                android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
